@@ -7,6 +7,9 @@ youtubeの「強化学習」シリーズで解説しているコードを載せ�
 
 # 2 強化学習の動画
 
+「強化学習」再生リスト<br>
+https://www.youtube.com/watch?v=LEDQr80YXMU&list=PL7BUpEjz_maQjfwIhAzkwxaLYIecfN7QP
+
 第1回 強化学習の概要<br>
 https://youtu.be/LEDQr80YXMU
 
